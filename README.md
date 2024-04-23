@@ -13,7 +13,7 @@ This project is a web scraper built with TypeScript, Next.js, and Puppeteer. It 
 1. Clone the repository:
 
     ```bash
-    git clone 
+    git clone https://github.com/jordanporterbiz/Web-scraper.git
     ```
 
 2. Install dependencies:
